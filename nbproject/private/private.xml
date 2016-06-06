@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JAVA/ElGamal/src/elgamal/gui/MainWindow.java</file>
+            <file>file:/D:/JAVA/ElGamal/src/elgamal/gui/GUIHelper.java</file>
+            <file>file:/D:/JAVA/ElGamal/src/bigint/BigIntBenchmark.java</file>
+            <file>file:/D:/JAVA/ElGamal/test/bigint/BigIntTest.java</file>
+            <file>file:/D:/JAVA/ElGamal/src/elgamal/services/ElGamalAlgorithm.java</file>
+            <file>file:/D:/JAVA/ElGamal/src/bigint/NewMain.java</file>
+            <file>file:/D:/JAVA/ElGamal/src/bigint/BigInt.java</file>
+            <file>file:/D:/JAVA/ElGamal/src/elgamal/ElGamal.java</file>
+            <file>file:/D:/JAVA/ElGamal/src/elgamal/services/FilesService.java</file>
+        </group>
+    </open-files>
+</project-private>
